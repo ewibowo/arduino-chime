@@ -4,6 +4,7 @@ import json
 import requests
 # Team Calendar
 WEBHOOK_URI = 'https://hooks.chime.aws/incomingwebhooks/8e8b4f67-10b3-4ab6-b9a8-d4b65f48a1fd?token=dk5WblczUG18MXxlRWhEU0tKdk12ekQtbG0zSDZNeXhlRFh3UVlFZU84clBJaXl1TUpoTnNR'
+
 ser = serial.Serial('/dev/cu.usbserial-14130', 9600)
 
 def post_message(msg):
