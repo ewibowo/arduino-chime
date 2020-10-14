@@ -5,4 +5,6 @@ he computer reads the data, manipulates it and posts the result to Amazon Chime 
 
 References:
 - https://www.arduino.cc/
-- https://aws.amazon.com/chime
+- https://aws.amazon.com/
+
+[![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/ewibowo/arduino-chime)
