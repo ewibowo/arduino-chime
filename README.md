@@ -5,13 +5,14 @@ In this project, Arduino reads the temperature and sends the data via serial por
 
 ## Part list
 - Arduino Uno
-- Temperature Sensor
-- LCD
+- Temperature Sensor (part of Grove Starter Kit)
+- LCD (part of Grove Starter Kit)
 - USB cable
 - Computer or Raspbery Pi to run Python script
 
-References:
+## References
 - https://www.arduino.cc/
 - https://aws.amazon.com/
+- https://www.seeedstudio.com/Grove-Starter-Kit-for-Arduino-p-1855.html
 
 [![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/ewibowo/arduino-chime)
