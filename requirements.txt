@@ -1,0 +1,5 @@
+Python modules:
+- time
+- serial
+- json
+- requests
